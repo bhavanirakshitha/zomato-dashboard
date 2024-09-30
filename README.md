@@ -1,1 +1,2 @@
-# zomato-dashboard
+# zomato-dashboard-Using-Power-Bi
+Excited to share my  project in Data Analytics using Power BI As part of my ongoing journey in visual analytics and data visualization, I recently completed a comprehensive project analyzing purchasing behavior on Zomato across various cities. Using Power BI, I transformed raw data into actionable insights, exploring the correlation between the amount and quantity of items bought in different locations.As part of my ongoing journey in visual analytics and data visualization. 
